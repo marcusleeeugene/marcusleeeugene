@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center"> Hi, i'm Marcus Lee Eugene! 😊</h1>
 
-<!--
-**marcusleeeugene/marcusleeeugene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--About Me-->
+<h2> About Me 💁🏼‍♂️ </h2>
+<p>
+  I am a Year 2 Computer Science student at the National University of Singapore (NUS). 🇸🇬
+</p>
+<p>
+  I am currently interested in Mobile Application Development 📱 and in Embedded Systems 🤖. I would like to specialize in Software Engineering in the future.
+</p>
+<p>
+  Aside from programming, I enjoy travelling ✈️ and making videos 🎥. 
+</p>
 
-Here are some ideas to get you started:
+<!--Skills-->
+<h2> Dev Skills 👨🏼‍💻 </h2>
+<p>
+  <ul>
+    <li> Javascript </li>
+    <li> Java </li>
+    <li> Python </li>
+    <li> C# </li>
+    <li> SQL </li>
+    <li> Visual Basic </li>
+    <li> HTML/CSS </li>
+  <ul>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Social Media-->
+<h2> Social Media 🌟</h2>
+<p>
+  To be updated...
+</p>
