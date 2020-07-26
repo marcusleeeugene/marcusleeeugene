@@ -9,7 +9,7 @@
   I am currently interested in Mobile Application Development 📱 and in Embedded Systems 🤖. I would like to specialize in Software Engineering in the future.
 </p>
 <p>
-  Aside from programming, I enjoy travelling ✈️ and making videos 🎥. 
+  Aside from programming, I enjoy travelling ✈️ and making videos 🎥.
 </p>
 
 <!--Skills-->
@@ -23,7 +23,7 @@
     <li> SQL </li>
     <li> Visual Basic </li>
     <li> HTML/CSS </li>
-  <ul>
+  </ul>
 </p>
 
 <!--Social Media-->
