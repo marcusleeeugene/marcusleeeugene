@@ -1,7 +1,12 @@
-<h1 align="center"> Hi, i'm Marcus Lee Eugene! 😊</h1>
+<h1 align="center"> Hi, there! 😊</h1>
 
 <!--About Me-->
 <h2> About Me 💁🏼‍♂️ </h2>
+<p>
+  Name: Marcus Lee Eugene <br>
+  Age: 23 <br>
+  Location: Singapore <br>
+</p>
 <p>
   I am a Year 2 Computer Science student at the National University of Singapore (NUS). 🇸🇬
 </p>
