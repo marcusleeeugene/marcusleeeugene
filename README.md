@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, there! 😊</h1>
+<h1 align="center"> Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 😊</h1>
 
 <!--About Me-->
 <h2> About Me 💁🏼‍♂️ </h2>
@@ -20,6 +20,10 @@
 <!--Skills-->
 <h2> Dev Skills 👨🏼‍💻 </h2>
 <p>
+  <a href="https://www.github.com/marcusleeeugene">
+     <img alt="github" src="https://camo.githubusercontent.com/d0518022b7a02d405ad5112a0c8aa455cbfe952e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"
+     height="40">
+  </a> &nbsp;
   <ul>
     <li> Javascript </li>
     <li> Java </li>
