@@ -3,9 +3,9 @@
 <!--About Me-->
 <h2> About Me 💁🏼‍♂️ </h2>
 <p>
-  Name: Marcus Lee Eugene <br>
-  Age: 23 <br>
-  Location: Singapore <br>
+  <b> Name: Marcus Lee Eugene </b><br> 
+  <b> Age: 23 </b><br>
+  <b> Location: Singapore </b><br>
 </p>
 <p>
   I am a Year 2 Computer Science student at the National University of Singapore (NUS). 🇸🇬
