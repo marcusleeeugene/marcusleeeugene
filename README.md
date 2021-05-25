@@ -11,7 +11,10 @@
   I am a Year 2 Computer Science student at the National University of Singapore (NUS). 🇸🇬
 </p>
 <p>
-  I am currently interested in Mobile Application Development 📱 and in Embedded Systems 🤖. I would like to specialize in Software Engineering in the future.
+  I am specializing in the area of Software Engineering and Database Systems.
+</p>
+<p>
+  I am planning to do a career in Mobile Application Development 📱 sometime in the future.
 </p>
 <p>
   Aside from programming, I enjoy travelling ✈️ and making videos 🎥.
@@ -21,13 +24,13 @@
 <h2> Dev Skills 👨🏼‍💻 </h2>
 <p>
   <ul>
-    <li> Javascript </li>
-    <li> Java </li>
+    <li> Javascript: React.js </li>
+    <li> Java: Spring Framework </li>
     <li> Python </li>
-    <li> C# </li>
+    <li> C#: .NET </li>
     <li> SQL </li>
-    <li> Visual Basic </li>
     <li> HTML/CSS </li>
+    <li> Visual Basic </li>
   </ul>
 </p>
 
