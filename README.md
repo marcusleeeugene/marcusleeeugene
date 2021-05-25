@@ -8,10 +8,13 @@
   <b> Location: Singapore </b><br>
 </p>
 <p>
-  I am a Year 2 Computer Science student at the National University of Singapore (NUS) 🇸🇬  and specializing in the area of Software Engineering and Database Systems.
+  I am a Year 2 Computer Science student at the National University of Singapore (NUS) 🇸🇬 
 </p>
 <p>
-  I am planning to do a career in Mobile Application Development 📱 sometime in the future.
+  Specializing in the area of Software Engineering and Database Systems.
+</p>
+<p>
+  I am planning to do a career in Mobile Application Development sometime in the future 📱
 </p>
 <p>
   Aside from programming, I enjoy travelling ✈️ and making videos 🎥.
