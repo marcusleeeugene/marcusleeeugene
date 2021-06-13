@@ -4,11 +4,11 @@
 <h2> About Me 💁🏼‍♂️ </h2>
 <p>
   <b> Name: Marcus Lee Eugene </b><br> 
-  <b> Age: 23 </b><br>
+  <b> Age: 24 </b><br>
   <b> Location: Singapore </b><br>
 </p>
 <p>
-  I am a Year 2 Computer Science student at the National University of Singapore (NUS) 🇸🇬 
+  I am a Year 3 Computer Science student at the National University of Singapore (NUS) 🇸🇬 
 </p>
 <p>
   Specializing in the area of Software Engineering and Database Systems.
