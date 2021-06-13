@@ -11,7 +11,7 @@
   I am a Year 3 Computer Science student at the National University of Singapore (NUS) 🇸🇬 
 </p>
 <p>
-  Specializing in the area of Software Engineering and Database Systems.
+  Specializing in the area of Software Engineering.
 </p>
 <p>
   I am planning to do a career in Mobile Application Development sometime in the future 📱
