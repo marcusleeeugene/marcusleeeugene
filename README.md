@@ -25,11 +25,11 @@
 <p>
   <ul>
     <li> Javascript: React.js </li>
+    <li> HTML/CSS: Twitter Bootstrap </li>
     <li> Java: Spring Framework </li>
+    <li> SQL: PostgreSQL </li>
     <li> Python </li>
     <li> C#: .NET </li>
-    <li> SQL: PostgreSQL </li>
-    <li> HTML/CSS: Twitter Bootstrap </li>
     <li> Visual Basic </li>
   </ul>
 </p>
