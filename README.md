@@ -29,7 +29,7 @@
     <li> Python </li>
     <li> C#: .NET </li>
     <li> SQL </li>
-    <li> HTML/CSS </li>
+    <li> HTML/CSS: Twitter Bootstrap </li>
     <li> Visual Basic </li>
   </ul>
 </p>
