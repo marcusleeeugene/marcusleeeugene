@@ -24,13 +24,11 @@
 <h2> Dev Skills 👨🏼‍💻 </h2>
 <p>
   <ul>
-    <li> Javascript: React.js </li>
+    <li> Javascript: React, React Native </li>
     <li> HTML/CSS: Twitter Bootstrap </li>
-    <li> Java: Spring Framework </li>
+    <li> Java: Spring Framework, Mockito </li>
     <li> SQL: PostgreSQL </li>
     <li> Python </li>
-    <li> C#: .NET </li>
-    <li> Visual Basic </li>
   </ul>
 </p>
 
