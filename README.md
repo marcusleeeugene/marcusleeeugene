@@ -55,3 +55,6 @@
 <p>
   Portfolio Website: <a href="https://marcusleeeugene.github.io/"> https://marcusleeeugene.github.io/ </a>
 </p>
+<p>
+  Medium: <a href="https://medium.com/@marcusleeeugene"> https://medium.com/@marcusleeeugene </a>
+</p>
