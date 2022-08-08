@@ -8,7 +8,7 @@
   <b> Location: Singapore </b><br>
 </p>
 <p>
-  I am a Year 3 Computer Science student at the National University of Singapore (NUS) 🇸🇬 
+  I am a final year Computer Science student at the National University of Singapore (NUS) 🇸🇬 
 </p>
 <p>
   Specializing in the area of Software Engineering.
