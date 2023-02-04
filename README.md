@@ -8,7 +8,7 @@
   <b> Location: Singapore </b><br>
 </p>
 <p>
-  Graduated with a Computer Science degree from the National University of Singapore (NUS), and specialized in the area of Software Engineering.
+  Graduated with a Bachelor in Computing, Computer Science from the National University of Singapore (NUS), and specialized in the area of Software Engineering.
 </p>
 <p>
   I am planning to do a career in Mobile Application Development sometime in the future 📱
