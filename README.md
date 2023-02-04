@@ -8,10 +8,7 @@
   <b> Location: Singapore </b><br>
 </p>
 <p>
-  I am a final year Computer Science student at the National University of Singapore (NUS) 🇸🇬 
-</p>
-<p>
-  Specializing in the area of Software Engineering.
+  Did Computer Science at  National University of Singapore (NUS) from 2019 - 2022 and specialized in the area of Software Engineering.
 </p>
 <p>
   I am planning to do a career in Mobile Application Development sometime in the future 📱
