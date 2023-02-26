@@ -21,8 +21,9 @@
 <h2> Dev Skills 👨🏼‍💻 </h2>
 <p>
   <ul>
+    <li> Software Engineering: Object Oriented Programming, Design Patterns, Unit & integration testing, CI/CD pipelines </li>
     <li> Frontend: React, Next.js, Material-UI, HTML, CSS </li>
-    <li> Backend: Java, Spring, Mockito, Maven </li>
+    <li> Backend: Java, Spring, Mockito, Maven, SQL </li>
   </ul>
 </p>
 
