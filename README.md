@@ -11,10 +11,7 @@
   Graduated with a Bachelor in Computing, Computer Science from the National University of Singapore (NUS), and specialized in the area of Software Engineering.
 </p>
 <p>
-  I am planning to do a career in Mobile Application Development sometime in the future 📱
-</p>
-<p>
-  Aside from programming, I enjoy travelling ✈️ and making videos 🎥.
+  Aside from programming, I enjoy travelling ✈️ and all kinds of sports 🏃🏻‍♂️🏸.
 </p>
 
 <!--Skills-->
@@ -23,7 +20,7 @@
   <ul>
     <li> Software Engineering: Object Oriented Programming, Design Patterns, Unit & integration testing, CI/CD pipelines </li>
     <li> Frontend: React, Next.js, Material-UI, HTML, CSS </li>
-    <li> Backend: Java, Spring, Mockito, Maven, SQL </li>
+    <li> Backend: Java, Spring, Mockito, Maven, SQL, NodeJs </li>
   </ul>
 </p>
 
